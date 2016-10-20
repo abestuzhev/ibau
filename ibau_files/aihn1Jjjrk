@@ -19,7 +19,7 @@ var getUrl = function() {
         timestamp = parseInt(localStorage.getItem("jv_store_cdn_resolve_time"), 10);
     } catch (e) {}
     var cdnUnavailable = timestamp && timestamp >= (new Date()).getTime();
-    return (cdnUnavailable? window.jivo_config.base_url : "//cdn.jivosite.com") + "/js/iframe_loader.js?rand=1476875575";
+    return (cdnUnavailable? window.jivo_config.base_url : "//cdn.jivosite.com") + "/js/iframe_loader.js?rand=1476970724";
 };
 function jivoLoad() {
     var sc = document.getElementsByTagName("script");

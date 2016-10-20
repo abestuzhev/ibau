@@ -950,3 +950,28 @@ a.btn1, .body input[type="submit"], .body input[type="button"], .body input[type
 .contentinner {
 	max-height: 175px;
 }
+
+.properties-readmore {
+	color: #0C0;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 400;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.properties-readmore .icon{
+	width: 8px;
+	height: 4px;
+	margin-left: 4px;
+	background-position: 0px -4px;
+}
+.properties-readmore .icon-down{
+	display: inline-block;
+	font-size: 0;
+	vertical-align: middle;
+	width: 8px;
+	height: 4px;
+	margin-left: 4px;
+	background-position: -8px -4px;
+}
