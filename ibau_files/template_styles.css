@@ -979,3 +979,22 @@ a.btn1, .body input[type="submit"], .body input[type="button"], .body input[type
 .presscentermainn .item .blockname a, .mainsections a.parent, .brandslist .item span, .sorter_and_name .name, .brandslist.mainstyles .title a, .mods h3.title2, .bigdata h3.title2, .detailtabs .contents .content .switcher, .sections a.parent, .presscentermainn .item a.blockname, .catalogmenu2 a.sub {
 	color: #8cba25 !important;
 }
+
+.sections .parent {
+	color: #8CBA25;!important;
+	margin-bottom: 10px;
+}
+
+.cataloge-list .subsections {
+	margin-left: 20px;
+}
+
+
+.cataloge-list li.section {
+	margin-bottom: 10px;
+}
+
+.cataloge-list .subsections li {
+	padding: 8px 0;
+	border-bottom: 1px solid #f3f3f3;
+}
