@@ -2,134 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6324fbeb-2e28-40ea-aa87-5603dceb7093" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/img/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(4).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/jssor.utils.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/offers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/offers.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/readmore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/recaptcha__ru.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/saved_resource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(1).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(10).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(2).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(3).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(5).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(6).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(7).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(8).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js(9).Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/script.min.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/share.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(1).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(10).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(11).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(12).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(13).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(14).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(15).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(16).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(17).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(18).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(19).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(2).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(3).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(4).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(5).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(6).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(7).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(8).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style(9).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/template_styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/timer.js.Без названия" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ibau_files/watch.js.Без названия" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/jssor.utils.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/media.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/offers.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/offers.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/recaptcha__ru.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/saved_resource.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(1).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(10).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(2).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(3).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(4).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(5).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(6).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(7).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(8).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js(9).Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/script.min.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/share.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(1).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(10).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(11).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(12).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(13).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(14).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(15).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(16).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(17).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(18).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(19).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(2).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(3).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(4).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(5).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(6).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(7).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(8).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style(9).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/template_styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/timer.js.Без названия" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product-card_files/watch.js.Без названия" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card.html" afterPath="$PROJECT_DIR$/ibau.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/65bdd9d9_5008_11e6_8107_e25788adf993_a946af54_500f_11e6_8107_e25788adf993.resize1(1).jpg" afterPath="$PROJECT_DIR$/ibau_files/65bdd9d9_5008_11e6_8107_e25788adf993_a946af54_500f_11e6_8107_e25788adf993.resize1(1).jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/65bdd9d9_5008_11e6_8107_e25788adf993_a946af54_500f_11e6_8107_e25788adf993.resize1.jpg" afterPath="$PROJECT_DIR$/ibau_files/65bdd9d9_5008_11e6_8107_e25788adf993_a946af54_500f_11e6_8107_e25788adf993.resize1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/65bdd9d9_5008_11e6_8107_e25788adf993_a946af54_500f_11e6_8107_e25788adf993.resize2.jpg" afterPath="$PROJECT_DIR$/ibau_files/65bdd9d9_5008_11e6_8107_e25788adf993_a946af54_500f_11e6_8107_e25788adf993.resize2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/65bdd9d9_5008_11e6_8107_e25788adf993_fc7d56f1_5308_11e6_8107_e25788adf993.resize1.jpg" afterPath="$PROJECT_DIR$/ibau_files/65bdd9d9_5008_11e6_8107_e25788adf993_fc7d56f1_5308_11e6_8107_e25788adf993.resize1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/aihn1Jjjrk" afterPath="$PROJECT_DIR$/ibau_files/aihn1Jjjrk" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/analytics.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/analytics.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/api.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/api.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/ba.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/ba.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/bundle_ru_RU.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/bundle_ru_RU.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/c28bd9b5cf0da3a1a6313e6d0ef51e18.png" afterPath="$PROJECT_DIR$/ibau_files/c28bd9b5cf0da3a1a6313e6d0ef51e18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core.min.css" afterPath="$PROJECT_DIR$/ibau_files/core.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_ajax.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core_ajax.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_db.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core_db.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_frame_cache.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core_frame_cache.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_fx.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core_fx.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_ls.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core_ls.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_popup.min.css" afterPath="$PROJECT_DIR$/ibau_files/core_popup.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/core_popup.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/core_popup.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/gtm.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/gtm.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/ibauru_logo_215x81.png" afterPath="$PROJECT_DIR$/ibau_files/ibauru_logo_215x81.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/icon_fb.png" afterPath="$PROJECT_DIR$/ibau_files/icon_fb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/icon_tw.png" afterPath="$PROJECT_DIR$/ibau_files/icon_tw.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/icon_vk.png" afterPath="$PROJECT_DIR$/ibau_files/icon_vk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/iframe_loader.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/iframe_loader.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery-1.11.0.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery-1.11.0.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.cookie.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery.cookie.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.fancybox.css" afterPath="$PROJECT_DIR$/ibau_files/jquery.fancybox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.fancybox.pack.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery.fancybox.pack.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.jscrollpane.css" afterPath="$PROJECT_DIR$/ibau_files/jquery.jscrollpane.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.jscrollpane.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery.jscrollpane.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.maskedinput.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery.maskedinput.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.mousewheel.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery.mousewheel.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jquery.scrollTo.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jquery.scrollTo.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/json2.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/json2.min.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jssor.core.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jssor.core.js.Без названия" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/product-card_files/jssor.slider.min.js.Без названия" afterPath="$PROJECT_DIR$/ibau_files/jssor.slider.min.js.Без названия" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ibau_files/template_styles.css" afterPath="$PROJECT_DIR$/ibau_files/template_styles.css" />
     </list>
     <ignored path="ibau-3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,8 +27,8 @@
       <file leaf-file-name="ibau.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ibau.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="1171" column="109" selection-start-line="1171" selection-start-column="109" selection-end-line="1171" selection-end-column="109" />
+            <state relative-caret-position="378">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="e#41312#41399#2" expanded="true" />
                 <element signature="e#46870#47689#2" expanded="true" />
@@ -183,12 +56,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template_styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ibau_files/template_styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="959" column="22" selection-start-line="959" selection-start-column="22" selection-end-line="959" selection-end-column="22" />
+            <state relative-caret-position="787">
+              <caret line="979" column="28" selection-start-line="979" selection-start-column="28" selection-end-line="979" selection-end-column="28" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cataloge.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cataloge.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2133">
+              <caret line="913" column="685" selection-start-line="913" selection-start-column="685" selection-end-line="913" selection-end-column="685" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#27313#28132#2" expanded="true" />
+                <element signature="e#31819#32018#2" expanded="true" />
+                <element signature="e#32599#37714#2" expanded="true" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#92734#96864#2" expanded="true" />
+                <element signature="e#96976#100031#2" expanded="true" />
+                <element signature="e#100089#104147#2" expanded="true" />
+                <element signature="e#104258#107316#2" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -204,6 +130,8 @@
         <option value="$PROJECT_DIR$/product-card_files/template_styles.css" />
         <option value="$PROJECT_DIR$/product-card.html" />
         <option value="$PROJECT_DIR$/ibau.html" />
+        <option value="$PROJECT_DIR$/catalog.html" />
+        <option value="$PROJECT_DIR$/cataloge.html" />
         <option value="$PROJECT_DIR$/ibau_files/template_styles.css" />
       </list>
     </option>
@@ -316,12 +244,12 @@
       <updated>1476933484551</updated>
       <workItem from="1476933486147" duration="371000" />
       <workItem from="1476933907210" duration="1676000" />
-      <workItem from="1476988296851" duration="4645000" />
+      <workItem from="1476988296851" duration="6750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6692000" />
+    <option name="totallyTimeSpent" value="8797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="3" width="1871" height="1084" extended-state="0" />
@@ -426,10 +354,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ibau.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="1171" column="109" selection-start-line="1171" selection-start-column="109" selection-end-line="1171" selection-end-column="109" />
+        <state relative-caret-position="378">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="e#41312#41399#2" expanded="true" />
             <element signature="e#46870#47689#2" expanded="true" />
@@ -458,8 +394,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ibau_files/template_styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="959" column="22" selection-start-line="959" selection-start-column="22" selection-end-line="959" selection-end-column="22" />
+        <state relative-caret-position="787">
+          <caret line="979" column="28" selection-start-line="979" selection-start-column="28" selection-end-line="979" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cataloge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="913" column="685" selection-start-line="913" selection-start-column="685" selection-end-line="913" selection-end-column="685" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#27313#28132#2" expanded="true" />
+            <element signature="e#31819#32018#2" expanded="true" />
+            <element signature="e#32599#37714#2" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#92734#96864#2" expanded="true" />
+            <element signature="e#96976#100031#2" expanded="true" />
+            <element signature="e#100089#104147#2" expanded="true" />
+            <element signature="e#104258#107316#2" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
