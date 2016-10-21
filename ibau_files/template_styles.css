@@ -1055,3 +1055,11 @@ a.btn1, .body input[type="submit"], .body input[type="button"], .body input[type
 	font-size: 12px;
 	font-weight: 400;
 }
+
+
+.sitemap .icon{
+	width: 8px;
+	height: 4px;
+	margin-left: 4px;
+	background-position: 0px -4px;
+}

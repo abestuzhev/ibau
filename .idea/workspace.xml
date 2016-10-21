@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6324fbeb-2e28-40ea-aa87-5603dceb7093" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ibau_files/template_styles.css" afterPath="$PROJECT_DIR$/ibau_files/template_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.html" afterPath="$PROJECT_DIR$/sitemap.html" />
     </list>
     <ignored path="ibau-3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,21 +57,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="template_styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ibau_files/template_styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="801">
-              <caret line="1055" column="19" selection-start-line="1055" selection-start-column="19" selection-end-line="1055" selection-end-column="19" />
+            <state relative-caret-position="699">
+              <caret line="1063" column="32" selection-start-line="1063" selection-start-column="32" selection-end-line="1063" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sitemap.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sitemap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sitemap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
-              <caret line="1026" column="52" selection-start-line="1026" selection-start-column="52" selection-end-line="1026" selection-end-column="52" />
+            <state relative-caret-position="601">
+              <caret line="1033" column="51" selection-start-line="1033" selection-start-column="51" selection-end-line="1033" selection-end-column="51" />
               <folding>
                 <element signature="e#22760#23579#2" expanded="true" />
                 <element signature="e#27266#27465#2" expanded="true" />
@@ -100,8 +101,8 @@
         <option value="$PROJECT_DIR$/catalog.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/cataloge.html" />
-        <option value="$PROJECT_DIR$/ibau_files/template_styles.css" />
         <option value="$PROJECT_DIR$/sitemap.html" />
+        <option value="$PROJECT_DIR$/ibau_files/template_styles.css" />
       </list>
     </option>
   </component>
@@ -213,12 +214,12 @@
       <updated>1476933484551</updated>
       <workItem from="1476933486147" duration="371000" />
       <workItem from="1476933907210" duration="1676000" />
-      <workItem from="1476988296851" duration="11877000" />
+      <workItem from="1476988296851" duration="12151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13924000" />
+    <option name="totallyTimeSpent" value="14198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="3" width="1871" height="1084" extended-state="0" />
@@ -479,18 +480,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ibau_files/template_styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
-          <caret line="1055" column="19" selection-start-line="1055" selection-start-column="19" selection-end-line="1055" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sitemap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="1026" column="52" selection-start-line="1026" selection-start-column="52" selection-end-line="1026" selection-end-column="52" />
+        <state relative-caret-position="601">
+          <caret line="1033" column="51" selection-start-line="1033" selection-start-column="51" selection-end-line="1033" selection-end-column="51" />
           <folding>
             <element signature="e#22760#23579#2" expanded="true" />
             <element signature="e#27266#27465#2" expanded="true" />
@@ -502,6 +495,14 @@
             <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ibau_files/template_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="1063" column="32" selection-start-line="1063" selection-start-column="32" selection-end-line="1063" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
