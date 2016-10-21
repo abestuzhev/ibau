@@ -985,16 +985,17 @@ a.btn1, .body input[type="submit"], .body input[type="button"], .body input[type
 	margin-bottom: 10px;
 }
 
-.cataloge-list .subsections {
+.catalog-list .subsections {
 	margin-left: 20px;
 }
 
 
-.cataloge-list li.section {
+.catalog-list li.section {
 	margin-bottom: 10px;
 }
 
-.cataloge-list .subsections li {
+.catalog-list .subsections li {
 	padding: 8px 0;
 	border-bottom: 1px solid #f3f3f3;
+	color: #214496;
 }
